@@ -161,7 +161,7 @@ export default component$(() => {
                   price="$550"
                 />
                 <PetCard
-                  image="/api/placeholder/400/320"
+                  image="https://www.dutch.com/cdn/shop/articles/shutterstock_538333303.jpg?v=1683242960"
                   name="Bella"
                   type="Persian Cat"
                   age="1.5 years"
